@@ -1,6 +1,8 @@
 // Author: Cui Qiaoxu qfc5036@psu.edu
 // Collaborator: John O'Toole Jbo5232@psu.edu
 // Collaborator: Ching-Ju Chen cxc6001@psu.edu
+// Section: 8
+// Breakout: 11
 
 #include <stdio.h>
 #include <stdlib.h>
